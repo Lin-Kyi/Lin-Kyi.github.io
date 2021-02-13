@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Lin Kyi](./pictures/linkyi.png)
+<img src="linkyi.png" width="350">
 
 You can use the [editor on GitHub](https://github.com/Lin-Kyi/Lin-Kyi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
